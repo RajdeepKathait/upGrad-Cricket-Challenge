@@ -78,8 +78,14 @@ Data Analysis:
 Final Prediction:
 
 Winner of the series  -	India
+
 Series output         -	4-1
+
 Highest run scorer    -	Rohit Sharma
+
 Highest wicket-taker  -	Jasprit Bumrah
+
 Maximum sixes         -	Rohit Sharma
+
 Maximum fours         -	Shikhar Dhawan
+
